@@ -28,6 +28,9 @@
 - [Blockchain & Cryptocurrencies made effortless | LitePaper](https://litepaper.com/)
 - [CryptoZombies- Coding Games in Ethereum](https://cryptozombies.io/)
 
+## Courses
+- [Ethereum and Solidity: The Complete Developer's Guide | Udemy Course - Paid](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
+
 ## Others
 - [Ethereum Use Cases](http://ethereumusecases.com/)
 
